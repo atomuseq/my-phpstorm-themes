@@ -3,8 +3,8 @@
 ### Installation on Windows (PHPStorm 10)
 
 Close PHPStorm if open.
-Go to `C:\Users\{username}\.WebIde100\config\colors` and place the .icls file there.
-Open PHPStorm, go to *View -> Quick Switch Theme -> Switch Color Scheme* and select *{themename}*.
+Go to `C:\Users\{username}\.WebIde100\config\colors`and place the .icls file there.
+Open PHPStorm, go to `View -> Quick Switch Theme -> Switch Color Scheme` and select `{themename}`.
 
 ### Installation on Mac OS (PHPStorm 10)
 
